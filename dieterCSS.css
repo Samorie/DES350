@@ -1,0 +1,67 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+font-family: "Helvetica"	
+}
+
+#Layout{
+width: 800px;
+}
+
+h1 {
+font-size: 50px;	
+}
+
+h2 {
+font-size: 20px;	
+}
+
+h3 {
+font-size: 15px;
+	
+}
+
+p {
+font-size: 12px;
+line-height: 12px;	
+}
+
+.One {
+padding-bottom: 1px;
+padding-top: 50px;	
+border-bottom: 5px solid black;
+}
+
+.name {
+border-bottom: 2px solid black;
+}
+
+
+.one{
+border-bottom: 2px solid black;	
+}
+
+.two{
+border-bottom: 2px solid black;	
+}
+
+.three{
+border-bottom: 2px solid black;		
+}
+
+.Two{
+padding-top: 50px;
+border-bottom: 5px solid black;	
+	
+}
+
+.Three {
+padding-top: 50px;
+border-bottom: 5px solid black;		
+}
+
+.Name {
+padding-bottom: 50px;
+border-bottom: 5px solid black;	
+}
